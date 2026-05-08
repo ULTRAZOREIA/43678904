@@ -1,0 +1,1 @@
+print("Programa do aluno Gustavo - ADS")
