@@ -1,0 +1,18 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "API de Cadastro Gustavo",
+    "version": "1.0.0",
+    "description": "Documentação Swagger da atividade de ADS"
+  },
+  "paths": {
+    "/alunos": {
+      "post": {
+        "summary": "Cadastra um novo aluno",
+        "responses": {
+          "201": { "description": "Sucesso" }
+        }
+      }
+    }
+  }
+}
